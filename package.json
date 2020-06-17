@@ -1,0 +1,19 @@
+{
+  "name": "v12.8.0",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index" 
+  },
+  "author": "\"brad traversy\".",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "modules": "^0.4.0",
+    "nodemon": "^2.0.4"
+  }
+} 
